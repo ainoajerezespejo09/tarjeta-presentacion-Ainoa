@@ -22,7 +22,6 @@ Soy una persona responsable, organizada y con interés en el sector comercial y 
 - Técnicas de venta
 - Microsoft Word
 - Microsoft Excel
-- Microsoft Outlook
 
 
 ## Objetivo Profesional
