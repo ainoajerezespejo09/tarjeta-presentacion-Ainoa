@@ -2,6 +2,10 @@
 # Ainoa Jerez Espejo
 ![Mi foto](IMG_0434.jpeg)
 
+## Información Personal
+Mail: ainoajrz09@gmail.com
+Telefono: 605 86 91 74
+Dirección: Carrer de Lugo, 39 2º2ª, 08032, Barcelona.
 ## Presentación Profesional
 
 Estudiante de Grado Medio en Actividades Comerciales en la Escuela Palcam.
@@ -27,3 +31,4 @@ Soy una persona responsable, organizada y con interés en el sector comercial y 
 ## Objetivo Profesional
 
 Seguir desarrollando mis conocimientos en el sector comercial, adquirir experiencia profesional y crecer dentro de una empresa líder.
+
