@@ -4,7 +4,9 @@
 
 ## Información Personal
 Mail: ainoajrz09@gmail.com
-Telefono: 605 86 91 74
+
+Teléfono: 605 86 91 74
+
 Dirección: Carrer de Lugo, 39 2º2ª, 08032, Barcelona.
 ## Presentación Profesional
 
