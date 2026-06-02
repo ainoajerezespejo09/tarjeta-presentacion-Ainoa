@@ -1,5 +1,6 @@
 # tarjeta-presentacion-Ainoa
 # Ainoa Jerez Espejo
+![Mi foto](IMG_0434.jpeg)
 
 ## Presentación Profesional
 
